@@ -1,0 +1,9 @@
+C:\Git\RegZnak\RegZnak\bin\Debug\netstandard2.0\REG_MARK.deps.json
+C:\Git\RegZnak\RegZnak\bin\Debug\netstandard2.0\REG_MARK.dll
+C:\Git\RegZnak\RegZnak\bin\Debug\netstandard2.0\REG_MARK.pdb
+C:\Git\RegZnak\RegZnak\obj\Debug\netstandard2.0\REG_MARK.csprojAssemblyReference.cache
+C:\Git\RegZnak\RegZnak\obj\Debug\netstandard2.0\REG_MARK.AssemblyInfoInputs.cache
+C:\Git\RegZnak\RegZnak\obj\Debug\netstandard2.0\REG_MARK.AssemblyInfo.cs
+C:\Git\RegZnak\RegZnak\obj\Debug\netstandard2.0\REG_MARK.csproj.CoreCompileInputs.cache
+C:\Git\RegZnak\RegZnak\obj\Debug\netstandard2.0\REG_MARK.dll
+C:\Git\RegZnak\RegZnak\obj\Debug\netstandard2.0\REG_MARK.pdb
