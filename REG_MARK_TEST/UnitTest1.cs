@@ -20,5 +20,12 @@ namespace REG_MARK_TEST
         {
             Assert.IsTrue(reg_mark.CheckMark("a999aa999"));
         }
+
+        [TestMethod]
+        public void GetNextMarkAfterValidation()
+        {
+            Assert.AreEqual(reg_mark.GetNextMarkAfter("a999aa999"), "b001ab001");
+        }
+
     }
 }
