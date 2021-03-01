@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\RegZnak\\RegZnak\\REG_MARK.csproj": {}
+    "E:\\Git\\Wordskills\\RegZnak\\REG_MARK.csproj": {}
   },
   "projects": {
-    "C:\\Git\\RegZnak\\RegZnak\\REG_MARK.csproj": {
+    "E:\\Git\\Wordskills\\RegZnak\\REG_MARK.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\RegZnak\\RegZnak\\REG_MARK.csproj",
+        "projectUniqueName": "E:\\Git\\Wordskills\\RegZnak\\REG_MARK.csproj",
         "projectName": "REG_MARK",
-        "projectPath": "C:\\Git\\RegZnak\\RegZnak\\REG_MARK.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\RegZnak\\RegZnak\\obj\\",
+        "projectPath": "E:\\Git\\Wordskills\\RegZnak\\REG_MARK.csproj",
+        "packagesPath": "C:\\Users\\Kirk Novos\\.nuget\\packages\\",
+        "outputPath": "E:\\Git\\Wordskills\\RegZnak\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kirk Novos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

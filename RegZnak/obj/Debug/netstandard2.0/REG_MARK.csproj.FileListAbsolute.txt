@@ -7,3 +7,12 @@ C:\Git\RegZnak\RegZnak\obj\Debug\netstandard2.0\REG_MARK.AssemblyInfo.cs
 C:\Git\RegZnak\RegZnak\obj\Debug\netstandard2.0\REG_MARK.csproj.CoreCompileInputs.cache
 C:\Git\RegZnak\RegZnak\obj\Debug\netstandard2.0\REG_MARK.dll
 C:\Git\RegZnak\RegZnak\obj\Debug\netstandard2.0\REG_MARK.pdb
+E:\Git\Wordskills\RegZnak\bin\Debug\netstandard2.0\REG_MARK.deps.json
+E:\Git\Wordskills\RegZnak\bin\Debug\netstandard2.0\REG_MARK.dll
+E:\Git\Wordskills\RegZnak\bin\Debug\netstandard2.0\REG_MARK.pdb
+E:\Git\Wordskills\RegZnak\obj\Debug\netstandard2.0\REG_MARK.csprojAssemblyReference.cache
+E:\Git\Wordskills\RegZnak\obj\Debug\netstandard2.0\REG_MARK.AssemblyInfoInputs.cache
+E:\Git\Wordskills\RegZnak\obj\Debug\netstandard2.0\REG_MARK.AssemblyInfo.cs
+E:\Git\Wordskills\RegZnak\obj\Debug\netstandard2.0\REG_MARK.csproj.CoreCompileInputs.cache
+E:\Git\Wordskills\RegZnak\obj\Debug\netstandard2.0\REG_MARK.dll
+E:\Git\Wordskills\RegZnak\obj\Debug\netstandard2.0\REG_MARK.pdb

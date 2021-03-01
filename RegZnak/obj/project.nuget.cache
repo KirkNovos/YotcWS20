@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "SvwwXbWnKCdjmCjT/up8s1g8h49YyUXrGCFtlDzCMSdjFnPVkg5pAixLgzUQP6rY7hHGpWNJ8mB7PdhkwDPKGg==",
+  "dgSpecHash": "6qcYk4i4JY51m0uNXiEigyLb69dC8iWQQC22BjgC2JvIemUrf9lO34TiOqxI9ZqWbg05a6Vf+i7Xj2qyMKAZlQ==",
   "success": true,
-  "projectFilePath": "C:\\Git\\RegZnak\\RegZnak\\REG_MARK.csproj",
+  "projectFilePath": "E:\\Git\\Wordskills\\RegZnak\\REG_MARK.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Kirk Novos\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kirk Novos\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
